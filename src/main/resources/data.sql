@@ -1,0 +1,2 @@
+INSERT INTO "USER" (ID, USERNAME, PASSWORD) VALUES (1, 'sahhimanshu7', 'Himanshu@123');
+INSERT INTO "USER" (ID, USERNAME, PASSWORD) VALUES (2, 'testUser', 'Test@123');
